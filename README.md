@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou Henrique Assunção
+# Henrique Assunção
 
-Bem-vindo ao meu GitHub! 🚀
-Sou **estudante de Engenharia de Software**, com foco em desenvolvimento de software e em construção de soluções práticas, escaláveis e bem estruturadas. Estou em constante aprendizado e busco oportunidades para evoluir profissionalmente na área de tecnologia.
+Bem-vindo ao meu GitHub! 
+Tenho, 25 anos, sou **estudante de Engenharia de Software**, com foco em desenvolvimento de software e em construção de soluções práticas, escaláveis e bem estruturadas. Estou em constante aprendizado e busco oportunidades para evoluir profissionalmente na área de tecnologia.
 
 ---
 
