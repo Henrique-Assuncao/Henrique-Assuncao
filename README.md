@@ -20,9 +20,9 @@ Tenho, 25 anos, sou **estudante de Engenharia de Software**, com foco em desenvo
 **Linguagens & Frameworks:**
 
 * Java ☕
-* JavaScript (ES6+)
+* JavaScript
 * React ⚛️
-* HTML5 | CSS3
+* HTML | CSS
 
 **Back-end & Banco de Dados:**
 
